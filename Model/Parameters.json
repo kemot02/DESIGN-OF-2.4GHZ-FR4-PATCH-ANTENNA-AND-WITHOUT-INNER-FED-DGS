@@ -1,0 +1,47 @@
+{
+    "parameters": [
+        {
+            "descr": "Width of substrate",
+            "expr": "65",
+            "name": "W",
+            "value": "65"
+        },
+        {
+            "descr": "Length of substrate",
+            "expr": "65",
+            "name": "L",
+            "value": "65"
+        },
+        {
+            "descr": "Height of substrate",
+            "expr": "1.6",
+            "name": "h",
+            "value": "1.6"
+        },
+        {
+            "descr": "Width of patch",
+            "expr": "38.99",
+            "name": "Wp",
+            "value": "38.99"
+        },
+        {
+            "descr": "Length of patch",
+            "expr": "28.710",
+            "name": "Lp",
+            "value": "28.710"
+        },
+        {
+            "descr": "Height of patch",
+            "expr": "0.035",
+            "name": "g",
+            "value": "0.035"
+        },
+        {
+            "descr": "Width of feedline",
+            "expr": "1.444",
+            "name": "wf",
+            "value": "1.444"
+        }
+    ],
+    "version": 1
+}
